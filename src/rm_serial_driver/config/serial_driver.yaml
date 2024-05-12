@@ -1,0 +1,10 @@
+/rm_serial_driver:
+  ros__parameters:
+    errorTime: 0.0
+    k: 0.03
+    device_name: /dev/ttyACM0
+    baud_rate: 115200
+    flow_control: none
+    parity: none
+    stop_bits: "1"
+
